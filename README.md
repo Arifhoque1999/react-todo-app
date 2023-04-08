@@ -10,7 +10,7 @@
 # user  ckick Delete button  takes delete success fully
 ![react-todo-app-using-api-main - Visual Studio Code 08-04-2023 11_29_14](https://user-images.githubusercontent.com/120245077/230707403-739bbd00-1c76-4691-a1bb-d6d4a2716c41.png)
 
-# When inputbox is Emty  btu user Add click add button show  Warning 
+# When inputbox is Empty  but user Add click add button show  Warning 
 ![API To-Do-List - Google Chrome 08-04-2023 11_29_25](https://user-images.githubusercontent.com/120245077/230707416-deddb222-7be2-4f03-81f6-38d768b5caaa.png)
 
 
