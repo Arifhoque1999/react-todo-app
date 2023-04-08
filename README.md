@@ -2,7 +2,7 @@
 
 
 # Home page 
-# All list data from Api in "GET" Request
+# All list item data from Api in "GET" Request
 ![API To-Do-List - Google Chrome 08-04-2023 11_30_07](https://user-images.githubusercontent.com/120245077/230707359-1ac718a5-3ae9-4aa0-a7c8-0acc1f93602b.png)
 
 # Add taks SuccessFully  PAGE Api "POST" Request
