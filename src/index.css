@@ -78,6 +78,12 @@ code {
   margin: 10px;
   box-sizing: border-box;
 }
+.todo-list:hover{
+background-color:black;
+color: yellow;
+}
+
+
 
 .todo-list li {
   list-style: none;
